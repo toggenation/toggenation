@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+I am an IT Professional from Melbourne Australia. I started out obtaining certifications as a Systems Engineer but have discovered I love to build web apps in CakePHP 4 & React.
+
+I post videos on my youtube channel (https://www.youtube.com/@toggenation)[https://www.youtube.com/@toggenation
+
+
 <!--
 **toggenation/toggenation** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
