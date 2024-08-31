@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-I am an IT Professional from Melbourne Australia. 
-
-I am a Systems Engineer but also enjoy building web apps mainly in CakePHP & React
+I am an IT Professional from Melbourne Australia, who also enjoys building web apps mainly in CakePHP & React
 
 Some of the code in my repositories are from videos I post on my Youtube channel [https://www.youtube.com/@toggenation](https://www.youtube.com/@toggenation)
 
